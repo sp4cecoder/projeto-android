@@ -60,7 +60,7 @@ header {
 header > h1 {
     color: white;
     font-family: var(--fonte1);
-    font-size: 3em;
+    font-size: 2.5em;
     margin-bottom: 20px;
     text-shadow: 2px 2px 0px rgb(0, 0, 0, 0.267);
     font-weight: normal;
